@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://0xjashim.github.io/portfolio/sitemap.xml
