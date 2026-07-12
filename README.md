@@ -27,13 +27,3 @@ portfolio/
 │       ├── profile.jpg      Profile photo
 │       └── logo.svg         Site mark
 ```
-
-## Deploying
-
-Upload the entire `portfolio/` folder contents to the root of your GitHub Pages repo (`0xjashim.github.io/portfolio/` project site). No build step required — plain HTML/CSS/JS.
-
-## Notes
-
-- All pages share the same nav/footer for consistency; the active page is highlighted automatically via a class on the nav link.
-- Certification badges render dynamically from `assets/js/badges-data.js` + `app.js` on `certifications.html`.
-- To add a real Open Graph preview image, drop a 1200×630px `og-image.png` at the site root — the meta tags on every page already reference it.
